@@ -1,5 +1,6 @@
-# 💫 About Me:
-## 🕵️‍♂️ <br> Welcome User<br><br>I am a security researcher and ethical hacker passionate about securing digital infrastructures and breaking things to make them stronger.<br><br>- 🛡️ **Focus:** Network Security, Penetration Testing, CTFs<br>- 💻 🧠 **Learning:** Advanced Malware Analysis<br>- ⚡ **Fun fact:** I live in the terminal.<br><br>### 🔧 Arsenal<br>`Python` `Bash` `Linux` `Metasploit` `Wireshark` `Burp Suite`
+ 💫 About Me:
+ 🕵️‍♂️ <br> Welcome User<br><br>I am a security researcher and ethical hacker passionate about securing digital infrastructures and breaking things to make them stronger.<br><br>- 🛡️ **Focus:** Network Security, Penetration Testing, CTFs<br>- 💻 🧠 **Learning:** Advanced Malware Analysis<br>- ⚡ **Fun fact:** I live in the terminal.<br><br>### 🔧 Arsenal<br>`Python` `Bash` `Linux` `Metasploit` `Wireshark` `Burp Suite`
+ 
 
 
 ## 🌐 Socials:
